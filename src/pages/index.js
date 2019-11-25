@@ -9,7 +9,7 @@ export default () => (
   <Layout>
     <SimleHero>
       <Banner
-        title="continue exploring"
+        title="continue developing"
         info=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, officiis."
       >
         <Link to="/tours" className="btn-white">
