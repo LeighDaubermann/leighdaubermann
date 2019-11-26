@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var o=e("q1tI"),u=e.n(o),c=e("7oih");function r(){return u.a.createElement(c.a,null,"hello from contact")}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-d2d38497f203e5bf6b84.js.map
